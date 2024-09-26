@@ -17,8 +17,23 @@
 6. 練習Markdown語法
 
 # Markdown語法練習區⬇️⬇️⬇️
+#### This is small
+### This is normal size
+## This is big
+# This is very big
 
+**bold**
+*italic*
 
+1. Name
+2. Last Name
+
+```csharp
+// Creating a Dictionary
+Dictionary<int,int> myDictionary = new Dictionary<int, int>();
+```
+If you **don't know** something, go here:
+[Google](https://google.com)
 
 
 
